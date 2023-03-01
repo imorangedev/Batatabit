@@ -1,0 +1,21 @@
+/*Media Queries*/
+/*Este archivo es creado para determinar cuales son los breakpoints
+o tama;os de pantalla donde nuestra aplicacion necesita cambios de
+estilo. En este caso esto es cuando el tama;o de la pantalla en la cual
+esta siendo vizualisada nuestra app es mayor a 930px*/
+.main-tables--container {
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.product-cards--container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.plans-container--slider {
+    justify-content: center;
+}

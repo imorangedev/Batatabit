@@ -439,7 +439,7 @@ main {
     display: flex;
     gap: 30px;
     height: 320px;
-    max-width: 450px;
+    max-width: 900px;
     min-width: 320px;
     overflow-x: scroll;
     overscroll-behavior-x: contain;
@@ -455,7 +455,7 @@ main {
     scroll-snap-align: center;
     width: 70%;
     min-width: 190px;
-    max-width: 300px;
+    max-width: 900px;
     height: 250px;
     margin: 50px 5px 0;
     padding: 0 15px;
