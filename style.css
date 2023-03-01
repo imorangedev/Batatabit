@@ -434,8 +434,22 @@ main {
     color: #757575;
 }
 
+/*Slider de promociones*/
+.plans-container--slider {
+    display: flex;
+    gap: 30px;
+    height: 316px;
+    overflow-x: scroll;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x proximity;
+}
+
+/*Tarjetas de promocion*/
 .plans-container--card {
     position: relative;
+    /*Etiqueta para centrar la tarjeta cada que cambio 
+    entre ellas*/
+    scroll-snap-align: center;
     width: 70%;
     min-width: 230px;
     max-width: 300px;
@@ -508,3 +522,4 @@ main {
     background-image: url('./assets/icons/orange-right-arrow.svg');
     vertical-align: text-bottom;
 }
+
