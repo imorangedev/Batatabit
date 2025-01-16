@@ -1,5 +1,6 @@
 # Batatabit
 
+## What is it?
 This project is created just with HTML and CSS in order to understand the bases of Frontend Development, HTML, CSS and Responsive Design focused on Mobile first. If you want to check the project, please follow the link:
 
 - [Batatabit](https://imorangedev.github.io/Batatabit/)
@@ -12,6 +13,7 @@ There you can find implementation of:
 
 Project is an static website so it is hosted in githubpages. Please feel free to comment and advice about areas of improvement.
 
+## Whant to know more?
 If you are interesting to learn more about programming with Python and backend development please check my notes:
 
 - [Algorithms](https://drive.google.com/file/d/1e72w53UL7udKEjXqQ3TDJ7lvyY1VqcqF/view)
